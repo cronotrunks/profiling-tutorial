@@ -1,0 +1,5 @@
+name = "Drupalcamp xhprof tests"
+description = "Drupalcamp xhprof tests"
+package = "Development"
+core = 7.x
+php = 5.2
